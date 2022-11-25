@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalanderApp</string>
+    <string name="Trước"><![CDATA[<-]]></string>
+    <string name="Sau"><![CDATA[->]]></string>
+    <string name="Weekly">Tuần</string>
+    <string name="NewEvent">Tạo nhắc nhở</string>
+</resources>
